@@ -1,7 +1,12 @@
 module.exports = [
     {
-        text: 'notes',
-        link: '/notes/'
+        text: '字节码',
+        items: [
+            {
+                text: 'ASM',
+                link: '/notes/asm/'
+            }
+        ]
     },
     {
         text: '指南',
