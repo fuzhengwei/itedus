@@ -1,5 +1,6 @@
 
 const utils = require('./catalog/bar.js');
+const navbar = require('./catalog/catalog.js')
 
 module.exports = ctx => ({
     dest: '.site',
@@ -31,7 +32,7 @@ module.exports = ctx => ({
     ],
     theme: '@vuepress/default',
     themeConfig: {
-        repo: 'vuejs/vuepress',
+        // repo: 'vuejs/vuepress',
         editLinks: true,
         docsDir: 'packages/docs/docs',
         // #697 Provided by the official algolia team.
@@ -53,7 +54,8 @@ module.exports = ctx => ({
                     '/notes/asm/': utils.genSidebar()
                 }
             }
-        }
+        },
+        nav: navbar
     },
     plugins: [
         ['@vuepress/back-to-top', true],
