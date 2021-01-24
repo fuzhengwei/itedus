@@ -1,3 +1,5 @@
+const {fs, path} = require('@vuepress/shared-utils');
+
 const utils = {
     genSidebar: function () {
         return [
@@ -55,6 +57,7 @@ const utils = {
             {
                 title: '附录',
                 collapsable: false,
+                sidebarDepth: 2,
                 children: [
                     ['A.0附录', 'A.0附录'],
                     ['A.1字节代码指', 'A.1字节代码指'],
@@ -70,7 +73,6 @@ const utils = {
             {
                 title: '码场故事',
                 collapsable: true,
-                sidebarDepth: 2,
                 children: [
                     ['', '介绍'],
                     ['程序员和数学', '1. 程序员和数学']
@@ -80,10 +82,10 @@ const utils = {
     }
 };
 
-const officalPlugins = fs
-    .readdirSync(path.resolve(__dirname, '../plugin/official'))
-    .map(filename => 'official/' + filename.slice(0, -3))
-    .sort();
+// const officalPlugins = fs
+//     .readdirSync(path.resolve(__dirname, '../plugin/official'))
+//     .map(filename => 'official/' + filename.slice(0, -3))
+//     .sort();
 
 function getPluginSidebar(pluginTitle, pluginIntro, officialPluginTitle) {
     return [

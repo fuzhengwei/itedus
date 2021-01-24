@@ -1,4 +1,4 @@
-const {fs, path} = require('@vuepress/shared-utils');
+
 const utils = require('./catalog/bar.js');
 
 module.exports = ctx => ({
@@ -47,11 +47,10 @@ module.exports = ctx => ({
                 ariaLabel: '选择语言',
                 editLinkText: '在 GitHub 上编辑此页',
                 lastUpdated: '上次更新',
-                nav: require('./nav/zh'),
+                nav: require('./catalog/catalog'),
                 sidebar: {
                     '/notes/other/': utils.getOtherBar(),
-                    '/notes/asm/': utils.genSidebar(),
-                    '/theme/': getThemeSidebar('主题', '介绍')
+                    '/notes/asm/': utils.genSidebar()
                 }
             }
         }
@@ -79,7 +78,7 @@ module.exports = ctx => ({
         ['flowchart']
     ],
     extraWatchFiles: [
-        '.vuepress/nav/zh.js'
+        '.vuepress/catalog/catalog.js'
     ]
 });
 
