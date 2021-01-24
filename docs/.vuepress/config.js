@@ -1,5 +1,5 @@
 const {fs, path} = require('@vuepress/shared-utils');
-const utils = require('./catalog/asm.js');
+const utils = require('./catalog/bar.js');
 
 module.exports = ctx => ({
     dest: '.site',
@@ -11,7 +11,7 @@ module.exports = ctx => ({
         }
     },
     head: [
-        ['link', {rel: 'icon', href: `/logo.png`}],
+        ['link', {rel: 'icon', href: `/hero.png`}],
         ['link', {rel: 'manifest', href: '/manifest.json'}],
         ['meta', {name: 'theme-color', content: '#3eaf7c'}],
         ['meta', {name: 'apple-mobile-web-app-capable', content: 'yes'}],
@@ -49,10 +49,8 @@ module.exports = ctx => ({
                 lastUpdated: '上次更新',
                 nav: require('./nav/zh'),
                 sidebar: {
+                    '/notes/other/': utils.getOtherBar(),
                     '/notes/asm/': utils.genSidebar(),
-                    '/api/': getApiSidebar(),
-                    '/guide/': getGuideSidebar('指南', '深入'),
-                    '/plugin/': getPluginSidebar('插件', '介绍', '官方插件'),
                     '/theme/': getThemeSidebar('主题', '介绍')
                 }
             }
@@ -85,85 +83,3 @@ module.exports = ctx => ({
     ]
 });
 
-function getApiSidebar() {
-    return [
-        'cli',
-        'node'
-    ]
-}
-
-function getGuideSidebar(groupA, groupB) {
-    return [
-        {
-            title: groupA,
-            collapsable: false,
-            children: [
-                '',
-                'getting-started',
-                'directory-structure',
-                'basic-config',
-                'assets',
-                'markdown',
-                'using-vue',
-                'i18n',
-                'deploy'
-            ]
-        },
-        {
-            title: groupB,
-            collapsable: false,
-            children: [
-                'frontmatter',
-                'permalinks',
-                'markdown-slot',
-                'global-computed'
-            ]
-        }
-    ]
-}
-
-const officalPlugins = fs
-    .readdirSync(path.resolve(__dirname, '../plugin/official'))
-    .map(filename => 'official/' + filename.slice(0, -3))
-    .sort();
-
-function getPluginSidebar(pluginTitle, pluginIntro, officialPluginTitle) {
-    return [
-        {
-            title: pluginTitle,
-            collapsable: false,
-            children: [
-                ['', pluginIntro],
-                'using-a-plugin',
-                'writing-a-plugin',
-                'life-cycle',
-                'option-api',
-                'context-api'
-            ]
-        },
-        {
-            title: officialPluginTitle,
-            collapsable: false,
-            children: officalPlugins
-        }
-    ]
-}
-
-function getThemeSidebar(groupA, introductionA) {
-    return [
-        {
-            title: groupA,
-            collapsable: false,
-            sidebarDepth: 2,
-            children: [
-                ['', introductionA],
-                'using-a-theme',
-                'writing-a-theme',
-                'option-api',
-                'default-theme-config',
-                'blog-theme',
-                'inheritance'
-            ]
-        }
-    ]
-}

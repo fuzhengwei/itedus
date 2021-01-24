@@ -1,5 +1,9 @@
 module.exports = [
     {
+        text: '码场',
+        link: '/notes/other/'
+    },
+    {
         text: '字节码',
         items: [
             {
@@ -9,24 +13,8 @@ module.exports = [
         ]
     },
     {
-        text: '指南',
-        link: '/guide/'
-    },
-    {
-        text: '配置',
-        link: '/config/'
-    },
-    {
-        text: '插件',
-        link: '/plugin/'
-    },
-    {
-        text: '主题',
-        link: '/theme/'
-    },
-    {
-        text: '了解更多',
-        ariaLabel: '了解更多',
+        text: '多层菜单',
+        ariaLabel: '配置案例',
         items: [
             {
                 text: 'API',
@@ -78,7 +66,7 @@ module.exports = [
         ]
     },
     {
-        text: '0.x',
-        link: 'https://v0.vuepress.vuejs.org/'
+        text: '关于',
+        link: 'https://bugstack.cn/about.html'
     }
 ];

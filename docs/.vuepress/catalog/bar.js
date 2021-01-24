@@ -64,7 +64,47 @@ const utils = {
                 ]
             }
         ]
+    },
+    getOtherBar: function () {
+        return [
+            {
+                title: '码场故事',
+                collapsable: true,
+                sidebarDepth: 2,
+                children: [
+                    ['', '介绍'],
+                    ['程序员和数学', '1. 程序员和数学']
+                ]
+            }
+        ]
     }
 };
+
+const officalPlugins = fs
+    .readdirSync(path.resolve(__dirname, '../plugin/official'))
+    .map(filename => 'official/' + filename.slice(0, -3))
+    .sort();
+
+function getPluginSidebar(pluginTitle, pluginIntro, officialPluginTitle) {
+    return [
+        {
+            title: pluginTitle,
+            collapsable: false,
+            children: [
+                ['', pluginIntro],
+                'using-a-plugin',
+                'writing-a-plugin',
+                'life-cycle',
+                'option-api',
+                'context-api'
+            ]
+        },
+        {
+            title: officialPluginTitle,
+            collapsable: false,
+            children: officalPlugins
+        }
+    ]
+}
 
 module.exports = utils;
