@@ -1,0 +1,105 @@
+<template><div><h1 id="星主介绍" tabindex="-1"><a class="header-anchor" href="#星主介绍" aria-hidden="true">#</a> 星主介绍</h1>
+<p>作者：小傅哥
+<br/>星球：<a href="https://t.zsxq.com/Ja27ujq" target="_blank" rel="noopener noreferrer">https://t.zsxq.com/Ja27ujq<ExternalLinkIcon/></a></p>
+<blockquote>
+<p>沉淀、分享、成长，让自己和他人都能有所收获！😄</p>
+</blockquote>
+<h2 id="一、讲讲-这就是我" tabindex="-1"><a class="header-anchor" href="#一、讲讲-这就是我" aria-hidden="true">#</a> 一、讲讲：这就是我</h2>
+<p><code v-pre>哈喽，大家好，我是技术UP主，小傅哥！</code></p>
+<p>一个仍在一线互联网搬砖🧱的<strong>T8级架构师</strong>，架构的了系统、开发的了组件、编写的了专利、出版的了图书。🤔<em>拳不离手，不被赶走！</em></p>
+<p>从入行到现在编码9年，依旧热爱写代码，所以工作之外的假期/周末，编写了大量的技术文章（<a href="https://bugstack.cn/" target="_blank" rel="noopener noreferrer">bugstack.cn<ExternalLinkIcon/></a>），也获得不少技术平台和全网几十万粉丝伙伴的认可。</p>
+<p><em>我特喜欢这种编写硬核文章，被认可的感觉。不图快，不逐利，帮助他人，也成就自己！</em></p>
+<h2 id="二、星球-刚好一年" tabindex="-1"><a class="header-anchor" href="#二、星球-刚好一年" aria-hidden="true">#</a> 二、星球：刚好一年</h2>
+<p>截止到22年的6月6日，整好是小傅哥运营<strong>知识星球</strong>：<code v-pre>码农会锁</code>的第365天，这一年共有 <strong>3000+</strong> 粉丝伙伴加入小傅哥的星球！</p>
+<p>这这些用户中，小傅哥结识了不少的在校大学生、研究生，还有不少985、211高校的毕业生，也有在国外新加坡🇸🇬、马来西亚🇲🇾、哥伦布等地的研发伙伴。<em>无一例外，他们喜欢了小傅哥和星球里的实践项目，毕竟这么优秀又干货又实惠的东西并不多！</em></p>
+<p><strong>那为什么这些粉丝伙伴愿意付费加入？</strong></p>
+<p>因为加入小傅哥的知识星球，就相当于加入了一个<strong>T8架构师运营维护的私有技术朋友圈</strong>👬🏻，在这个朋友圈中可以参与到小傅哥提供的专属；实战项目、课程视频、手撕源码、简历优化，以及传授各种复杂场景的架构设计。</p>
+<p>这些硬核资料皆是小傅哥多年大厂复杂项目开发，所积累的架构经验和技术沉淀，这些原创资料，没有拼凑、没有水文、没有忽悠，有的是能让加入的伙伴，站在我已为你打下的江山下，少走弯路，把宝贵的时间花在攻城略地、剑指Offer、为自己的职业生涯续期上！</p>
+<hr>
+<p>但讲道理，我没有办法能让你临时抱佛脚的学习，也不能让你一蹴而就拿到Offer。因为我所编写的资料，都需要你花费较长时间的学习和亲自实践验证。就像下面这段关于星球中Lottery实战项目的简历描述，绝对没有技术水分，只要跟住学习，长久的积累，你一定能把自己抬到这个高度，走一条架构师的成长路线。</p>
+<p><img src="https://bugstack.cn/images/article/about/about-220605-01.png" alt="星球项目学习后简历编写《Lottery 抽奖系统 - 基于领域驱动设计的四层架构实践》" loading="lazy"></p>
+<ul>
+<li>类似这样的有技术含量的项目或者某个深度的技术点，在小傅哥的知识星球中就可以学习，所以每一个都会花费一些时间，但这些能长久积累技术能力的内容，远比碎片化的泛知识学习或者直接背答案更有意义。</li>
+<li>只要你是在星球中学习学习小傅哥的这些内容，你尽管<strong>烧脑</strong>的折腾，因为最后都会有我给你兜底，帮助你来解决这些问题。但在这之前，所有的折腾都是非常有必要的，只有经历的错误对了，才能积累更多的正确经验。</li>
+</ul>
+<h2 id="三、介绍-星球服务" tabindex="-1"><a class="header-anchor" href="#三、介绍-星球服务" aria-hidden="true">#</a> 三、介绍：星球服务</h2>
+<p><strong>码农会锁</strong>，是小傅哥运营维护的<code v-pre>私有技术朋友圈</code>，在这个朋友圈中你将获得小傅哥所编写的专属星球的所有技术项目、PDF书籍，以及VIP服务。<code v-pre>new VIP服务(简历优化、问题回答、成长指导、架构方案、以及其他)</code></p>
+<p>除了星球中的实战项目、PDF资料下载，还有更为重要的获得架构师给予的技术回答、简历优化、系统方案设计等内容。也正是因为这些内容，才让整个私有技术朋友圈变得有意义，你所有学习遇到的磕磕绊绊的事故，基本都是我曾经折腾的过的故事。</p>
+<h4 id="_3-1-简历优化" tabindex="-1"><a class="header-anchor" href="#_3-1-简历优化" aria-hidden="true">#</a> 3.1 简历优化</h4>
+<div align="center">
+    <img src="https://bugstack.cn/images/article/about/about-220605-02.png?raw=true" width="750px">
+    <br/>
+    <div style="font-size: 9px;">给星球用户批阅简历，提高投递通过率</div>
+    <br/>
+</div>
+<h4 id="_3-2-方案设计" tabindex="-1"><a class="header-anchor" href="#_3-2-方案设计" aria-hidden="true">#</a> 3.2 方案设计</h4>
+<div align="center">
+    <img src="https://bugstack.cn/images/article/about/about-220605-03.png?raw=true" width="750px">
+    <br/>
+    <div style="font-size: 9px;">针对星球用户，提出的问题，基于架构/系统/流程设计方案</div>
+    <br/>
+</div>
+<ul>
+<li>这些复杂业务场景的问题，绝不是八股文就能搞定的，甚至有些都是多年业务和技术方面的经验积累，以及做过相关项目，才能给出的设计。</li>
+<li>关于系统的方案设计，各个VIP用户都可以提出以及给予自己对此类场景的一个回答，同时小傅哥也绝对会在周末等大块时间下，来处理这些方案设计问题。<em>对我来说，这个事情，很刺激，我喜欢！</em></li>
+</ul>
+<h4 id="_3-3-问题回答" tabindex="-1"><a class="header-anchor" href="#_3-3-问题回答" aria-hidden="true">#</a> 3.3 问题回答</h4>
+<div align="center">
+    <img src="https://bugstack.cn/images/article/about/about-220605-04-1.png?raw=true" width="750px">
+</div>
+<br/>
+<div align="center">
+    <img src="https://bugstack.cn/images/article/about/about-220605-04-2.png?raw=true" width="750px">
+</div>
+<ul>
+<li>这只是星球中一个问题的回答，这样的一个问题所回答的设计，有时候要编写上千字来说明。<em>是不是感觉一个月问一个问题，就赚了！</em></li>
+<li>而星球中这样的单独提问，小傅哥回答了300来个，而星球中还有很多日常的作业检查、技术讨论、八股题库、小册课程、资料分享等各项标签下的内容。<em>不割韭菜，让每一个加入的用户，都感到值得！</em></li>
+</ul>
+<h2 id="四、学习氛围" tabindex="-1"><a class="header-anchor" href="#四、学习氛围" aria-hidden="true">#</a> 四、学习氛围</h2>
+<p>在建设和运营星球以后，小傅哥也从很多读者身上学习到了不少的学习技巧，他们就像；”卷王”、“画图侠”、“熬夜怪”，周末有人卷学习，深夜有人交作业！</p>
+<h3 id="_4-1-私有朋友圈" tabindex="-1"><a class="header-anchor" href="#_4-1-私有朋友圈" aria-hidden="true">#</a> 4.1 私有朋友圈</h3>
+<p>当然，被这样的“鼓励”下，我的周末😭全用在星球上了，不是录制课程视频，就是手写源码，也因为大家的图越画越牛，我也跟着让自己的图更上层楼。点名：课代表阿曦、新晋卷王奥斯卡最佳配角、画图侠诏无言、优秀作业无名氏🧐等等。</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">学习氛围</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center"><img src="https://bugstack.cn/images/article/about/about-220605-05-01.png" alt="" loading="lazy"></td>
+</tr>
+<tr>
+<td style="text-align:center"><img src="https://bugstack.cn/images/article/about/about-220605-05-02.png" alt="" loading="lazy"></td>
+</tr>
+<tr>
+<td style="text-align:center"><img src="https://bugstack.cn/images/article/about/about-220605-05-03.png" alt="" loading="lazy"></td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>经过一年的积累，星球中的优秀内容还远不止这些。无论是学习方法、课程资料、学习氛围，都已经建设的非常全面且完整，后续会更加全面。</li>
+<li>星球中很多的这样的伙伴，都是来自于985、211名校，他们更知道如何节省时间，找到更快学习到干货的路径。<em>与这样的伙伴做同学，即可节省你的时间，还可以跟着一个有氛围的圈子一起成长。</em></li>
+</ul>
+<h3 id="_4-2-专属微信群" tabindex="-1"><a class="header-anchor" href="#_4-2-专属微信群" aria-hidden="true">#</a> 4.2 专属微信群</h3>
+<p>有不少加入了小傅哥的知识星球的粉丝伙伴，悄悄告诉小傅哥：“其他群我都退了，只加一个星球VIP群就够了！”</p>
+<p>其实最开始我也没想到，在付费建设星球的VIP专属群后，群内的伙伴80%以上的聊天内容都是以技术为主，扯淡的少了，技术交流的多了。付费后有了门槛，整个技术分为也提升了不少了。所以不少伙伴，只加入星球VIP群，其他的群就退了！</p>
+<div align="center">
+    <img src="https://bugstack.cn/images/article/about/about-220605-05-04.png?raw=true" width="750px">
+    <br/>
+    <div style="font-size: 9px;">星球读者周末肝星球项目</div>
+    <br/>
+</div>
+<ul>
+<li>加入星球后，可以在星球的置顶消息中，阅读需知。这样就可以引导加入专属的VIP读者群了。</li>
+</ul>
+<h3 id="_4-3-适合我吗" tabindex="-1"><a class="header-anchor" href="#_4-3-适合我吗" aria-hidden="true">#</a> 4.3 适合我吗</h3>
+<p>那么，小傅哥的码农会锁，私有技术朋友圈，适合什么样的你加入呢？</p>
+<ol>
+<li>即将大学毕业、研究生毕业，但苦于手里没有什么干货项目，都是一堆 CRUD 案例，没有分布式复杂设计，撑不起简历的。</li>
+<li>在职场编码开发2-3年左右，总是在写一些边角料项目，既没有使用设计模式，也没有遵守设计原则，想跳槽出去又感觉还是没法突破这个圈子。</li>
+<li>希望在以后走技术架构师路线，专精于技术沉淀和成长，希望了解到更多的架构经验和复杂场景的设计技巧。</li>
+<li>学习bugstack.cn虫洞栈，有学习苦难，很多复杂的技术点，在自己目前的阶段，不好理解。希望加入星球后，对于这些问题，可以直接由小傅哥指导的。</li>
+</ol>
+<p><strong>综上</strong>，如果你想多赚一些钱，也希望自己的职业生涯长久一些，有一定的硬核技术积累，在往后的职场中更稳一些，那么可以加入小傅哥的星球。这些足够硬核的内容，可以帮助你更加平稳的度过往后的路，企业不会永远一帆风顺，但只要你手里技术硬，就会相对平稳。</p>
+</div></template>
