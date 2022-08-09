@@ -34,10 +34,10 @@
 <p>学习 Lottery 分布式抽奖秒杀项目 - 基于领域驱动设计的落地实践【面大厂利器】、手写Mybatis、Netty网关(设计中)、BPMN低代码(计划中)等</p>
 </li>
 <li>
-<p>提供博客 <a href="https://bugstack.cn" target="_blank" rel="noopener noreferrer">https://bugstack.cn<ExternalLinkIcon/></a> 所有学习内容的指导、帮助</p>
+<p>提供博客 https://bugstack.cn 所有学习内容的指导、帮助</p>
 </li>
 <li>
-<p>GitHub：<a href="https://github.com/fuzhengwei/CodeGuide" target="_blank" rel="noopener noreferrer">https://github.com/fuzhengwei/CodeGuide<ExternalLinkIcon/></a> - 非常有价值的技术资料仓库，包括小傅哥所有的博客开放案例代码</p>
+<p>GitHub：https://github.com/fuzhengwei/CodeGuide - 非常有价值的技术资料仓库，包括小傅哥所有的博客开放案例代码</p>
 </li>
 <li>
 <p>可以在发送你的简历到我的邮箱(见使用介绍)，提供简历批阅服务</p>
@@ -190,7 +190,7 @@
 </ul>
 <h3 id="_3-3-手写mybatis" tabindex="-1"><a class="header-anchor" href="#_3-3-手写mybatis" aria-hidden="true">#</a> 3.3 手写Mybatis</h3>
 <ul>
-<li>代码：<a href="https://gitcode.net/KnowledgePlanet/TearSourceCode/small-mybatis" target="_blank" rel="noopener noreferrer">https://gitcode.net/KnowledgePlanet/TearSourceCode/small-mybatis<ExternalLinkIcon/></a></li>
+<li>代码：https://gitcode.net/KnowledgePlanet/TearSourceCode/small-mybatis</li>
 </ul>
 <h4 id="介绍" tabindex="-1"><a class="header-anchor" href="#介绍" aria-hidden="true">#</a> 介绍</h4>
 <ul>

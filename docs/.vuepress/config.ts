@@ -17,32 +17,38 @@ export default defineUserConfig({
         },
         logo: "/logo.svg",
         repo: "https://github.com/fuzhengwei/itedus",
+        docsDir: "docs",
+        pure: true,
         iconPrefix: "iconfont icon-",
-        // navbar
         navbar: navbar,
-        // sidebar
         sidebar: sidebar,
 
         plugins: {
-        blog: {
-          autoExcerpt: true,
-        },
-        // Giscus：https://giscus.app/zh-CN
-        comment: {
-          provider: "Giscus",
-          repo: "fuzhengwei/CodeGuide",
-          repoId: "MDEwOlJlcG9zaXRvcnkyNTU1NTgzNDU=",
-          category: "General",
-          categoryId: "MDE4OkRpc2N1c3Npb25DYXRlZ29yeTMyMDQwNjUw",
-        },
+            blog: {
+              autoExcerpt: true,
+            },
+            mdEnhance: {
+                tasklist: true,
+            },
+            feed: {
+                json: true,
+            },
+            // Giscus：https://giscus.app/zh-CN
+            comment: {
+              provider: "Giscus",
+              repo: "fuzhengwei/CodeGuide",
+              repoId: "MDEwOlJlcG9zaXRvcnkyNTU1NTgzNDU=",
+              category: "General",
+              categoryId: "MDE4OkRpc2N1c3Npb25DYXRlZ29yeTMyMDQwNjUw",
+            },
 
-        mdEnhance: {
-          enableAll: true,
-          presentation: {
-            plugins: ["highlight", "math", "search", "notes", "zoom"],
-          },
-        },
-      },
+            // mdEnhance: {
+            //   enableAll: true,
+            //   presentation: {
+            //     plugins: ["highlight", "math", "search", "notes", "zoom"],
+            //   },
+            // },
 
+        },
   })
 });

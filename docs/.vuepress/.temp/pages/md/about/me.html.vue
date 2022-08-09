@@ -17,7 +17,7 @@
 <p>这些硬核资料皆是小傅哥多年大厂复杂项目开发，所积累的架构经验和技术沉淀，这些原创资料，没有拼凑、没有水文、没有忽悠，有的是能让加入的伙伴，站在我已为你打下的江山下，少走弯路，把宝贵的时间花在攻城略地、剑指Offer、为自己的职业生涯续期上！</p>
 <hr>
 <p>但讲道理，我没有办法能让你临时抱佛脚的学习，也不能让你一蹴而就拿到Offer。因为我所编写的资料，都需要你花费较长时间的学习和亲自实践验证。就像下面这段关于星球中Lottery实战项目的简历描述，绝对没有技术水分，只要跟住学习，长久的积累，你一定能把自己抬到这个高度，走一条架构师的成长路线。</p>
-<p><img src="https://bugstack.cn/images/article/about/about-220605-01.png" alt="星球项目学习后简历编写《Lottery 抽奖系统 - 基于领域驱动设计的四层架构实践》" loading="lazy"></p>
+<p><img src="https://bugstack.cn/images/article/about/about-220605-01.png" alt="星球项目学习后简历编写《Lottery 抽奖系统 - 基于领域驱动设计的四层架构实践》"></p>
 <ul>
 <li>类似这样的有技术含量的项目或者某个深度的技术点，在小傅哥的知识星球中就可以学习，所以每一个都会花费一些时间，但这些能长久积累技术能力的内容，远比碎片化的泛知识学习或者直接背答案更有意义。</li>
 <li>只要你是在星球中学习学习小傅哥的这些内容，你尽管<strong>烧脑</strong>的折腾，因为最后都会有我给你兜底，帮助你来解决这些问题。但在这之前，所有的折腾都是非常有必要的，只有经历的错误对了，才能积累更多的正确经验。</li>
@@ -67,13 +67,13 @@
 </thead>
 <tbody>
 <tr>
-<td style="text-align:center"><img src="https://bugstack.cn/images/article/about/about-220605-05-01.png" alt="" loading="lazy"></td>
+<td style="text-align:center"><img src="https://bugstack.cn/images/article/about/about-220605-05-01.png" alt=""></td>
 </tr>
 <tr>
-<td style="text-align:center"><img src="https://bugstack.cn/images/article/about/about-220605-05-02.png" alt="" loading="lazy"></td>
+<td style="text-align:center"><img src="https://bugstack.cn/images/article/about/about-220605-05-02.png" alt=""></td>
 </tr>
 <tr>
-<td style="text-align:center"><img src="https://bugstack.cn/images/article/about/about-220605-05-03.png" alt="" loading="lazy"></td>
+<td style="text-align:center"><img src="https://bugstack.cn/images/article/about/about-220605-05-03.png" alt=""></td>
 </tr>
 </tbody>
 </table>

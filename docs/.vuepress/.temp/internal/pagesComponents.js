@@ -9,6 +9,20 @@ export const pagesComponents = {
   "v-0e503981": defineAsyncComponent(() => import(/* webpackChunkName: "v-0e503981" */"/Users/fuzhengwei/1024/github/itedus/docs/.vuepress/.temp/pages/slide.html.vue")),
   // path: /md/about/me.html
   "v-70c55780": defineAsyncComponent(() => import(/* webpackChunkName: "v-70c55780" */"/Users/fuzhengwei/1024/github/itedus/docs/.vuepress/.temp/pages/md/about/me.html.vue")),
+  // path: /md/pdf/pdf.html
+  "v-016cc503": defineAsyncComponent(() => import(/* webpackChunkName: "v-016cc503" */"/Users/fuzhengwei/1024/github/itedus/docs/.vuepress/.temp/pages/md/pdf/pdf.html.vue")),
+  // path: /md/project/algorithm.html
+  "v-396543c2": defineAsyncComponent(() => import(/* webpackChunkName: "v-396543c2" */"/Users/fuzhengwei/1024/github/itedus/docs/.vuepress/.temp/pages/md/project/algorithm.html.vue")),
+  // path: /md/project/gateway.html
+  "v-2b548aac": defineAsyncComponent(() => import(/* webpackChunkName: "v-2b548aac" */"/Users/fuzhengwei/1024/github/itedus/docs/.vuepress/.temp/pages/md/project/gateway.html.vue")),
+  // path: /md/project/im.html
+  "v-bb632900": defineAsyncComponent(() => import(/* webpackChunkName: "v-bb632900" */"/Users/fuzhengwei/1024/github/itedus/docs/.vuepress/.temp/pages/md/project/im.html.vue")),
+  // path: /md/project/lottery.html
+  "v-1ac704c5": defineAsyncComponent(() => import(/* webpackChunkName: "v-1ac704c5" */"/Users/fuzhengwei/1024/github/itedus/docs/.vuepress/.temp/pages/md/project/lottery.html.vue")),
+  // path: /md/project/mybatis.html
+  "v-15f4270a": defineAsyncComponent(() => import(/* webpackChunkName: "v-15f4270a" */"/Users/fuzhengwei/1024/github/itedus/docs/.vuepress/.temp/pages/md/project/mybatis.html.vue")),
+  // path: /md/project/spring.html
+  "v-39a8fa92": defineAsyncComponent(() => import(/* webpackChunkName: "v-39a8fa92" */"/Users/fuzhengwei/1024/github/itedus/docs/.vuepress/.temp/pages/md/project/spring.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"/Users/fuzhengwei/1024/github/itedus/docs/.vuepress/.temp/pages/404.html.vue")),
   // path: /category/

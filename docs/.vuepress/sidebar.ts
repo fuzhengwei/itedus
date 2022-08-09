@@ -2,6 +2,26 @@ import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar([
   "/",
+  {
+    text: "星球项目【编写中】",
+    icon: "note",
+    prefix: "/md/project/",
+    children: ["algorithm", "gateway"]
+  },
+  {
+    text: "星球项目【已完结】",
+    icon: "note",
+    prefix: "/md/project/",
+    collapsable: true,
+    children: ["lottery", "im", "mybatis", "spring"]
+  },
+  {
+    text: "星球书籍",
+    icon: "note",
+    prefix: "/md/pdf/",
+    collapsable: true,
+    children: ["pdf"]
+  }
   /*{
     text: "文章",
     icon: "note",
